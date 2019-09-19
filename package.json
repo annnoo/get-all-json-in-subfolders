@@ -1,11 +1,12 @@
 {
-  "name": "get-all-json-in-folder",
+  "name": "get-all-json-in-subfolders",
   "version": "1.0.0",
-  "description": "",
+  "description": "Returns an array of all json file in folders and all subfolders",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "annnoo",
+  "license": "ISC",
+  "keywords": [""]
 }
